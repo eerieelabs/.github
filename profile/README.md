@@ -2,8 +2,6 @@
 
 Home of **Eeriee** and the projects built around it.
 
-Website: https://eeriee.dev
-
 ## As for open source?
 
 Most of our work is private so yeah...
